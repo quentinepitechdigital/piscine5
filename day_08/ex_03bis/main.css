@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7;
+}
+
+h1 {
+    margin: 20px 0;
+}
+
+.element {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    display: inline-block;
+}
+
+#square {
+    width: 150px;
+    height: 150px;
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}

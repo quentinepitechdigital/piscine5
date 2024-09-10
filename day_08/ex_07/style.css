@@ -1,0 +1,14 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    overflow: hidden;
+}
+
+.chuck-norris-image {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    pointer-events: none;
+}
