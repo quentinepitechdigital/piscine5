@@ -17,8 +17,4 @@ document.addEventListener("DOMContentLoaded", function () {
             theme: 'light-border'
         });
     });
-
-    document.addEventListener('click', function (event) {
-        tippy.hideAll();
-    }, true);
 });
